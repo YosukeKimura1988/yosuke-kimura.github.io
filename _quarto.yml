@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Yosuke Kimura"
-  site-url: "https://yosuke-kimura.github.io"
+  site-url: "https://yosukekimura1988.github.io/yosuke-kimura.github.io/"
   navbar:
     left:
       - href: index.qmd
@@ -23,7 +23,7 @@ website:
         text: CV
     right:
       - icon: github
-        href: https://github.com/yosuke-kimura
+        href: https://github.com/yosukekimura1988
       - icon: google
         href: https://scholar.google.com/
 
