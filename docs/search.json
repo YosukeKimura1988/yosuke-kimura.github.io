@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Research Projects",
+    "section": "",
+    "text": "This project studies how the design of information structures affects decisions, prices, and capital allocation when information is multidimensional and only some dimensions are payoff-relevant."
+  },
+  {
+    "objectID": "projects.html#payoff-relevant-information-architecture",
+    "href": "projects.html#payoff-relevant-information-architecture",
+    "title": "Research Projects",
+    "section": "",
+    "text": "This project studies how the design of information structures affects decisions, prices, and capital allocation when information is multidimensional and only some dimensions are payoff-relevant."
+  },
+  {
+    "objectID": "projects.html#market-for-credibility",
+    "href": "projects.html#market-for-credibility",
+    "title": "Research Projects",
+    "section": "Market for Credibility",
+    "text": "Market for Credibility\nThis project develops a theory of credibility as a scarce resource in information markets."
+  },
+  {
+    "objectID": "projects.html#proofs-without-disclosure",
+    "href": "projects.html#proofs-without-disclosure",
+    "title": "Research Projects",
+    "section": "Proofs without Disclosure",
+    "text": "Proofs without Disclosure\nThis project studies strategic communication with privacy-preserving verifiable proofs."
+  },
+  {
+    "objectID": "projects.html#firm-dynamics-after-ipo",
+    "href": "projects.html#firm-dynamics-after-ipo",
+    "title": "Research Projects",
+    "section": "Firm Dynamics after IPO",
+    "text": "Firm Dynamics after IPO\nThis project examines how financial intermediary heterogeneity affects post-IPO growth, valuation, debt capacity, and upper-tail firm dynamics in Japan."
+  },
+  {
+    "objectID": "projects.html#incremental-value-of-data",
+    "href": "projects.html#incremental-value-of-data",
+    "title": "Research Projects",
+    "section": "Incremental Value of Data",
+    "text": "Incremental Value of Data\nThis project studies the value of data through conditional mutual information and prediction-based decision problems."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Topics include capital budgeting, cost of capital, capital structure, payout policy, IPOs, M&A, and corporate governance.\n\n\n\nTopics include strategy, organization, incentives, decision-making, and data-driven management.\n\n\n\nTopics include optimization, linear algebra, probability, and dynamic systems for economics and finance."
+  },
+  {
+    "objectID": "teaching.html#courses",
+    "href": "teaching.html#courses",
+    "title": "Teaching",
+    "section": "",
+    "text": "Topics include capital budgeting, cost of capital, capital structure, payout policy, IPOs, M&A, and corporate governance.\n\n\n\nTopics include strategy, organization, incentives, decision-making, and data-driven management.\n\n\n\nTopics include optimization, linear algebra, probability, and dynamic systems for economics and finance."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Charoenwong, B., Kwan, A., Tan, E., and Kimura, Y.\n“Capital Budgeting, Uncertainty, and Misallocation.”\nJournal of Financial Economics, 2024.\nChen, Y., Nakagawa, K., Kimura, Y., and Inoue, K.\n“Are Managerial Cognitive Biases Priced in Japan?”\nFinance Research Letters, 2025."
+  },
+  {
+    "objectID": "research.html#selected-publications",
+    "href": "research.html#selected-publications",
+    "title": "Research",
+    "section": "",
+    "text": "Charoenwong, B., Kwan, A., Tan, E., and Kimura, Y.\n“Capital Budgeting, Uncertainty, and Misallocation.”\nJournal of Financial Economics, 2024.\nChen, Y., Nakagawa, K., Kimura, Y., and Inoue, K.\n“Are Managerial Cognitive Biases Priced in Japan?”\nFinance Research Letters, 2025."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working Papers",
+    "text": "Working Papers\n\nPayoff-Relevant Information Architecture\nThis project studies how information structures should be designed when only some dimensions of uncertainty are payoff-relevant for downstream decisions.\n\n\nIncremental Value of Data and Conditional Mutual Information\nThis paper develops a decision-theoretic model of the incremental value of data and shows how conditional mutual information characterizes the value of an additional signal."
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in Progress",
+    "text": "Work in Progress\n\nMarket for Credibility\nProofs without Disclosure\nFirm Dynamics after IPO\nLayered Communication by Central Banks"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yosuke Kimura",
+    "section": "",
+    "text": "I am an Associate Professor at Institute of Science Tokyo.\nMy research interests include corporate finance, firm dynamics, information economics, innovation, and financial markets."
+  },
+  {
+    "objectID": "index.html#associate-professor-of-finance",
+    "href": "index.html#associate-professor-of-finance",
+    "title": "Yosuke Kimura",
+    "section": "",
+    "text": "I am an Associate Professor at Institute of Science Tokyo.\nMy research interests include corporate finance, firm dynamics, information economics, innovation, and financial markets."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Yosuke Kimura",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nCorporate finance\nFirm dynamics\nInformation, disclosure, and financial markets\nInnovation and networks\nData, AI, and decision-making"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Yosuke Kimura",
+    "section": "Contact",
+    "text": "Contact\nEmail: kimura.y.bq[at]m.titech.ac.jp"
+  }
+]

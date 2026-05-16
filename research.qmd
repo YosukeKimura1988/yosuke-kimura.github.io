@@ -1,0 +1,30 @@
+---
+title: "Research"
+---
+
+## Selected Publications
+
+- Charoenwong, B., Kwan, A., Tan, E., and Kimura, Y.  
+  "Capital Budgeting, Uncertainty, and Misallocation."  
+  *Journal of Financial Economics*, 2024.
+
+- Chen, Y., Nakagawa, K., Kimura, Y., and Inoue, K.  
+  "Are Managerial Cognitive Biases Priced in Japan?"  
+  *Finance Research Letters*, 2025.
+
+## Working Papers
+
+### Payoff-Relevant Information Architecture
+
+This project studies how information structures should be designed when only some dimensions of uncertainty are payoff-relevant for downstream decisions.
+
+### Incremental Value of Data and Conditional Mutual Information
+
+This paper develops a decision-theoretic model of the incremental value of data and shows how conditional mutual information characterizes the value of an additional signal.
+
+## Work in Progress
+
+- Market for Credibility
+- Proofs without Disclosure
+- Firm Dynamics after IPO
+- Layered Communication by Central Banks

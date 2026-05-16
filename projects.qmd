@@ -1,0 +1,23 @@
+---
+title: "Research Projects"
+---
+
+## Payoff-Relevant Information Architecture
+
+This project studies how the design of information structures affects decisions, prices, and capital allocation when information is multidimensional and only some dimensions are payoff-relevant.
+
+## Market for Credibility
+
+This project develops a theory of credibility as a scarce resource in information markets.
+
+## Proofs without Disclosure
+
+This project studies strategic communication with privacy-preserving verifiable proofs.
+
+## Firm Dynamics after IPO
+
+This project examines how financial intermediary heterogeneity affects post-IPO growth, valuation, debt capacity, and upper-tail firm dynamics in Japan.
+
+## Incremental Value of Data
+
+This project studies the value of data through conditional mutual information and prediction-based decision problems.

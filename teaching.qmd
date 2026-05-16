@@ -1,0 +1,17 @@
+---
+title: "Teaching"
+---
+
+## Courses
+
+### Corporate Finance
+
+Topics include capital budgeting, cost of capital, capital structure, payout policy, IPOs, M&A, and corporate governance.
+
+### Management Theory
+
+Topics include strategy, organization, incentives, decision-making, and data-driven management.
+
+### Mathematics for Economics
+
+Topics include optimization, linear algebra, probability, and dynamic systems for economics and finance.
