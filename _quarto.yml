@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Yosuke Kimura"
-  site-url: "https://yosukekimura1988.github.io/yosuke-kimura.github.io/"
+  site-url: "yosukekimura1988.github.io/"
   navbar:
     left:
       - href: index.qmd
